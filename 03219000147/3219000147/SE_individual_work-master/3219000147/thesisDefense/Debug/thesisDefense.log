@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\GUANG\Desktop\SE_individual_work\SE_individual_work\3218005445\thesisDefense\main.cpp(84,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\GUANG\Desktop\SE_individual_work\SE_individual_work\3218005445\thesisDefense\main.cpp(152,22): warning C4244: “return”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  thesisDefense.vcxproj -> C:\Users\GUANG\Desktop\SE_individual_work\SE_individual_work\3218005445\thesisDefense\Debug\thesisDefense.exe

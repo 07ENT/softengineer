@@ -1,0 +1,21 @@
+[2020-09-20 20:12:41] [info] Start Program:
+Path:"C:\\Users\\GUANG\\Desktop\\SE_individual_work\\SE_individual_work\\3218005445\\thesisDefense\\Debug\\thesisDefense.exe"
+Arguments:
+Working directory: "C:\\Users\\GUANG\\Desktop\\SE_individual_work\\SE_individual_work\\3218005445\\thesisDefense\\"
+Modules: Selected: C:\Users\GUANG\Desktop\SE_individual_work\SE_individual_work\3218005445\thesisDefense\Debug\thesisDefense.exe C:\Users\GUANG\Desktop\SE_individual_work\SE_individual_work\3218005445\thesisDefense\Debug\thesisDefenseUnitTest.dll Excluded: 
+Sources: Selected: C:\Users\GUANG\Desktop\SE_individual_work\SE_individual_work\3218005445\thesisDefense C:\Users\GUANG\Desktop\SE_individual_work\SE_individual_work\3218005445\thesisDefenseUnitTest Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\GUANG\AppData\Local\Temp\3acgrnhk.czb 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2020-09-20 20:12:41] [info] Module: C:\Users\GUANG\Desktop\SE_individual_work\SE_individual_work\3218005445\thesisDefense\Debug\thesisDefense.exe is selected because it matches selected pattern: 
+[2020-09-20 20:14:33] [info] ----------------------------------------------------
+[2020-09-20 20:14:33] [info] Coverage binary generated in file: C:\Users\GUANG\AppData\Local\Temp\3acgrnhk.czb
+[2020-09-20 20:14:33] [info] ----------------------------------------------------
